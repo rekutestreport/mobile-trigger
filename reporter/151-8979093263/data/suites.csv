@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 07 03:16:34 UTC 2024","Tue May 07 03:17:45 UTC 2024","70313","","Wallet - USD Wallet - Yield","","","","User should be able to see entrypoint inactive USD Yield on USD Card page [MOBILE2-3343] | BETA-V3",""
+"passed","Tue May 07 03:14:47 UTC 2024","Tue May 07 03:15:29 UTC 2024","42222","","Wallet - USD Wallet - Yield","","","","User should be able to see dialog total yield paid when click Yield Earned [MOBILE2-3349] | BETA-V3",""
+"broken","Tue May 07 03:15:29 UTC 2024","Tue May 07 03:15:56 UTC 2024","27065","","Wallet - USD Wallet - Yield","","","","User should be able to see total yield are rounded down to 2 decimals [MOBILE2-3356] | BETA-V3",""
+"passed","Tue May 07 03:13:45 UTC 2024","Tue May 07 03:14:47 UTC 2024","61263","","Wallet - USD Wallet - Yield","","","","User should be able to see total yield earned on USD Card page [MOBILE2-3348] | BETA-V3",""
+"passed","Tue May 07 03:18:17 UTC 2024","Tue May 07 03:18:49 UTC 2024","32774","","Wallet - USD Wallet - Yield","","","","User shouldnt be able activate USD Yield when uncheck T&C [MOBILE2-3350] | BETA-V3",""
+"passed","Tue May 07 03:15:56 UTC 2024","Tue May 07 03:16:34 UTC 2024","38505","","Wallet - USD Wallet - Yield","","","","User should be able to see total yield earned on transaction history [MOBILE2-3357] | BETA-V3",""
+"passed","Tue May 07 03:17:45 UTC 2024","Tue May 07 03:18:17 UTC 2024","31798","","Wallet - USD Wallet - Yield","","","","User successfully redirected to activate USD Yield page when click entrypoint inactive USD Yield [MOBILE2-3346] | BETA-V3",""
