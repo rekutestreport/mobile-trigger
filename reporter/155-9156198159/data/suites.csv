@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 20 09:00:13 UTC 2024","Mon May 20 09:01:57 UTC 2024","103905","","Wallet - USD - Transaction Detail","","","","User should be able to see transaction detail of Buy USD [MOBILE2-3315] | BETA-V3",""
+"passed","Mon May 20 09:03:07 UTC 2024","Mon May 20 09:04:07 UTC 2024","60159","","Wallet - USD - Transaction Detail","","","","User should be able to see transaction detail of USD Yield [MOBILE2-3318] | BETA-V3",""
+"passed","Mon May 20 09:01:57 UTC 2024","Mon May 20 09:03:07 UTC 2024","69632","","Wallet - USD - Transaction Detail","","","","User should be able to see transaction detail of Sell USD [MOBILE2-3317] | BETA-V3",""
