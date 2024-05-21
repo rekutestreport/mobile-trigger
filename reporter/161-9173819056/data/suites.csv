@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 11:22:27 UTC 2024","Tue May 21 11:23:27 UTC 2024","59939","","Wallet - US Stock Wallet","","","","User should be able see empty state on USS Card page when no transaction state [MOBILE2-2589] | BETA-V3",""
+"passed","Tue May 21 11:26:45 UTC 2024","Tue May 21 11:27:17 UTC 2024","32394","","Wallet - US Stock Wallet","","","","User should be able to see the last 10 transaction history on USS card page [MOBILE2-2579] | BETA-V3",""
+"passed","Tue May 21 11:24:55 UTC 2024","Tue May 21 11:25:28 UTC 2024","32809","","Wallet - US Stock Wallet","","","","User should be able to see the other us stock transaction related on transaction history [MOBILE2-2583] | BETA-V3",""
+"passed","Tue May 21 11:25:28 UTC 2024","Tue May 21 11:26:07 UTC 2024","39378","","Wallet - US Stock Wallet","","","","User should be able to see the Buy coins transaction history [MOBILE2-2580] | BETA-V3",""
+"passed","Tue May 21 11:23:27 UTC 2024","Tue May 21 11:24:25 UTC 2024","57583","","Wallet - US Stock Wallet","","","","User should be able to see the current balance of us stock owned in USD [MOBILE2-2578] | BETA-V3",""
+"passed","Tue May 21 11:24:25 UTC 2024","Tue May 21 11:24:55 UTC 2024","30188","","Wallet - US Stock Wallet","","","","User successfully redirected to transaction history page when click see all [MOBILE2-2586] | BETA-V3",""
+"passed","Tue May 21 11:26:07 UTC 2024","Tue May 21 11:26:45 UTC 2024","37891","","Wallet - US Stock Wallet","","","","User should be able to see the Sell coins transaction history [MOBILE2-2581] | BETA-V3",""
