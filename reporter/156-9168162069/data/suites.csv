@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 03:04:43 UTC 2024","Tue May 21 03:05:07 UTC 2024","24454","","KYC - Bappebti","","","","User can't verification phone number if number under 5 digits [MOBILE2-2500] | BETA",""
+"broken","Tue May 21 03:05:07 UTC 2024","Tue May 21 03:05:54 UTC 2024","46344","","KYC - Bappebti","","","","User successfully submit kyc verification with WNI Identity and domicile same with KTP [MOBILE2-2499 MOBILE2-2508] | BETA",""
+"broken","Tue May 21 03:05:54 UTC 2024","Tue May 21 03:06:03 UTC 2024","9498","","KYC - Bappebti","","","","User successfully submit kyc verification with WNI Identity and domicile different with KTP [MOBILE2-2509] | BETA",""
