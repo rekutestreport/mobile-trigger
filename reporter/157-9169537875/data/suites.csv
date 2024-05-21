@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 05:56:48 UTC 2024","Tue May 21 05:57:47 UTC 2024","58760","","Wallet - Crypto Wallet - Send Coin #1","","","","User successfully send coin internal (2FA active) [MOBILE2-2267] | BETA-V3",""
+"passed","Tue May 21 05:57:47 UTC 2024","Tue May 21 05:59:12 UTC 2024","84628","","Wallet - Crypto Wallet - Send Coin #1","","","","User can send coin internal/external with receive full amount [MOBILE2-2288] | BETA-V3",""
+"passed","Tue May 21 05:53:24 UTC 2024","Tue May 21 05:54:16 UTC 2024","51962","","Wallet - Crypto Wallet - Send Coin #1","","","","User can not send coin if user not yet add phone number but verifed [MOBILE2-2225] | BETA",""
+"passed","Tue May 21 05:54:16 UTC 2024","Tue May 21 05:55:14 UTC 2024","57978","","Wallet - Crypto Wallet - Send Coin #1","","","","User cant send coin when doesnt have phone number and unverified [MOBILE2-2227] | BETA",""
+"passed","Tue May 21 05:55:14 UTC 2024","Tue May 21 05:56:48 UTC 2024","94534","","Wallet - Crypto Wallet - Send Coin #1","","","","User successfully send coin external (default toggle receive amount: active and 2FA active) [MOBILE2-2269] | BETA-V3",""
+"passed","Tue May 21 05:59:12 UTC 2024","Tue May 21 06:00:08 UTC 2024","56252","","Wallet - Crypto Wallet - Send Coin #1","","","","User can send coin internal/external with not receive full amount [MOBILE2-2290] | BETA-V3",""
