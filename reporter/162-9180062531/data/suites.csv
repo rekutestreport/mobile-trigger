@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 21 19:07:38 UTC 2024","Tue May 21 19:08:52 UTC 2024","73532","","Wallet - US Stock - Transaction Detail","","","","User should be able to see transaction detail of Limit Buy/Sell Stock status Open Order [MOBILE2-3340] | BETA-V3",""
+"passed","Tue May 21 19:10:03 UTC 2024","Tue May 21 19:11:03 UTC 2024","60098","","Wallet - US Stock - Transaction Detail","","","","User should be able to see transaction detail of Market Buy/Sell Stock status Canceled [MOBILE2-3336] | BETA-V3",""
+"passed","Tue May 21 19:08:52 UTC 2024","Tue May 21 19:10:03 UTC 2024","70994","","Wallet - US Stock - Transaction Detail","","","","User should be able to see transaction detail of Market Buy/Sell Stock status Success [MOBILE2-3334] | BETA-V3",""
+"passed","Tue May 21 19:11:03 UTC 2024","Tue May 21 19:12:06 UTC 2024","62800","","Wallet - US Stock - Transaction Detail","","","","User should be able to see transaction detail of Limit Buy/Sell Stock status Canceled [MOBILE2-3339] | BETA-V3",""
