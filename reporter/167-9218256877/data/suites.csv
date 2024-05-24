@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 24 03:35:40 UTC 2024","Fri May 24 03:36:18 UTC 2024","37979","","US Stock - Discovery","","","","User can see pocket entry point [MOBILE2-3633] | BETA-V3",""
+"passed","Fri May 24 03:38:01 UTC 2024","Fri May 24 03:38:57 UTC 2024","56212","","US Stock - Discovery","","","","User can see recommend user to some coins with predefined algo [MOBILE2-3563] | BETA-V3",""
+"passed","Fri May 24 03:37:04 UTC 2024","Fri May 24 03:38:01 UTC 2024","56973","","US Stock - Discovery","","","","User can see Market Movers [MOBILE2-3562] | BETA-V3",""
+"passed","Fri May 24 03:36:18 UTC 2024","Fri May 24 03:36:40 UTC 2024","21637","","US Stock - Discovery","","","","User can see Market status [MOBILE2-3559] | BETA-V3",""
+"passed","Fri May 24 03:34:45 UTC 2024","Fri May 24 03:35:40 UTC 2024","54952","","US Stock - Discovery","","","","User successfully redirected to discover stocks page [MOBILE2-3632] | BETA-V3",""
+"passed","Fri May 24 03:36:40 UTC 2024","Fri May 24 03:37:04 UTC 2024","24348","","US Stock - Discovery","","","","User can see Calendar Event [MOBILE2-3565] | BETA-V3",""
