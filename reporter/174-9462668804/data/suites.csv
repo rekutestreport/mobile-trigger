@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 11 09:05:27 UTC 2024","Tue Jun 11 09:05:59 UTC 2024","32610","","Wallet - USD Wallet","","","","User successfully redirected to transaction history USD page when click see all [MOBILE2-2571] | BETA-V3",""
+"passed","Tue Jun 11 09:04:54 UTC 2024","Tue Jun 11 09:05:27 UTC 2024","32576","","Wallet - USD Wallet","","","","User should be able see last 10 transaction history on USD Card page [MOBILE2-2570] | BETA-V3",""
+"passed","Tue Jun 11 09:07:07 UTC 2024","Tue Jun 11 09:08:15 UTC 2024","68870","","Wallet - USD Wallet","","","","User should be able see empty state on USD Card page when no transaction state [MOBILE2-2574] | BETA-V3",""
+"passed","Tue Jun 11 09:04:24 UTC 2024","Tue Jun 11 09:04:54 UTC 2024","30601","","Wallet - USD Wallet","","","","User should be able see balance breakdown USD [MOBILE2-2569] | BETA-V3",""
+"passed","Tue Jun 11 09:03:29 UTC 2024","Tue Jun 11 09:04:24 UTC 2024","54226","","Wallet - USD Wallet","","","","User should be able see total balance of USD owned [MOBILE2-2568] | BETA-V3",""
+"passed","Tue Jun 11 09:05:59 UTC 2024","Tue Jun 11 09:06:33 UTC 2024","34098","","Wallet - USD Wallet","","","","User successfully redirected to Buy page when click Buy [MOBILE2-2572] | BETA-V3",""
+"passed","Tue Jun 11 09:06:33 UTC 2024","Tue Jun 11 09:07:07 UTC 2024","33136","","Wallet - USD Wallet","","","","User successfully redirected to Sell page when click Sell [MOBILE2-2573] | BETA-V3",""
