@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 11 09:32:39 UTC 2024","Tue Jun 11 09:33:49 UTC 2024","69642","","Wallet - USD Wallet - Buy/Sell","","","","User successfully buy USD from entry point wallet [MOBILE2-2590] | BETA-V3",""
+"passed","Tue Jun 11 09:36:49 UTC 2024","Tue Jun 11 09:37:28 UTC 2024","38895","","Wallet - USD Wallet - Buy/Sell","","","","User unsuccessfully buy when input amount above available balance [MOBILE2-2618] | BETA-V3",""
+"passed","Tue Jun 11 09:33:49 UTC 2024","Tue Jun 11 09:34:39 UTC 2024","50692","","Wallet - USD Wallet - Buy/Sell","","","","User successfully buy USD from entry point USD page [MOBILE2-2591] | BETA-V3",""
+"passed","Tue Jun 11 09:36:18 UTC 2024","Tue Jun 11 09:36:49 UTC 2024","30797","","Wallet - USD Wallet - Buy/Sell","","","","User unsuccessfully sell when input amount above available balance [MOBILE2-2622] | BETA-V3",""
+"passed","Tue Jun 11 09:35:25 UTC 2024","Tue Jun 11 09:36:18 UTC 2024","52666","","Wallet - USD Wallet - Buy/Sell","","","","User successfully sell USD from entry point USD page [MOBILE2-2620] | BETA-V3",""
+"passed","Tue Jun 11 09:34:39 UTC 2024","Tue Jun 11 09:35:25 UTC 2024","45705","","Wallet - USD Wallet - Buy/Sell","","","","User successfully sell USD from entry point wallet [MOBILE2-2619] | BETA-V3",""
