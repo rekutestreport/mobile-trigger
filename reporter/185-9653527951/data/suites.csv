@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jun 24 23:10:08 UTC 2024","Mon Jun 24 23:11:59 UTC 2024","110544","","Profile - Setup Withdrawal Account","","","","User cant set wd account when havent add phone number and unverified [MOBILE2-2115] | BETA-V3_PROD_NGT",""
+"broken","Mon Jun 24 23:13:20 UTC 2024","Mon Jun 24 23:14:44 UTC 2024","83706","","Profile - Setup Withdrawal Account","","","","User should not be able to add same bank and account number [MOBILE2-1157] | BETA-V3_PROD_NGT",""
+"broken","Mon Jun 24 23:14:44 UTC 2024","Mon Jun 24 23:16:37 UTC 2024","112767","","Profile - Setup Withdrawal Account","","","","User successfully save and delete e-wallet number [MOBILE2-1164 MOBILE2-1179] | BETA-V3_PROD_NGT",""
+"passed","Mon Jun 24 23:09:01 UTC 2024","Mon Jun 24 23:10:08 UTC 2024","67089","","Profile - Setup Withdrawal Account","","","","Unverified user successfully redirected to verify account page when click set up withdrawal account menu [MOBILE2-1130 MOBILE2-2114] | BETA",""
+"broken","Mon Jun 24 23:16:37 UTC 2024","Mon Jun 24 23:18:35 UTC 2024","118007","","Profile - Setup Withdrawal Account","","","","User should not be able to add same e-wallet [MOBILE2-1168] | BETA-V3_PROD_NGT",""
+"broken","Mon Jun 24 23:11:59 UTC 2024","Mon Jun 24 23:13:20 UTC 2024","81424","","Profile - Setup Withdrawal Account","","","","User successfully save and delete account number [MOBILE2-1153 MOBILE2-1180] | BETA-V3_PROD_NGT",""
